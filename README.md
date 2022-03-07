@@ -1,8 +1,9 @@
 <h1>Game Magic Ball</h1>
 
-<h4> Игрушка предсказывающая будущее</h4><p>
-<h5><p>language:Ruby</h5><p>
+<h3> Игрушка предсказывающая будущее</h3><p>
+<h4><p>language:Ruby</h4><p>
   
-  </h6>Запуск из терминала Ubuntu:<p>
+  
+  </h5>Запуск из терминала Ubuntu:<p>
   cd ./magic_ball <p>
-  ruby magic_ball.rb</h6>
+  ruby magic_ball.rb</h5>
