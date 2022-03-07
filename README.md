@@ -4,6 +4,7 @@
 <h4><p>language:Ruby</h4><p>
   
   
-  </h5>Запуск из терминала Ubuntu:<p>
-  cd ./magic_ball <p>
-  ruby magic_ball.rb</h5>
+  <h4>Запуск из терминала Ubuntu:<p></h4>
+    
+  </h6>cd ./magic_ball <p>
+  ruby magic_ball.rb</h6>
