@@ -4,7 +4,7 @@
 <p>language:Ruby</h4>
   
   
-  <h4>Запуск игры:<p></h4>
+  <h4>Запуск программы:<p></h4>
     
   </h6>
   ruby magic_ball.rb</h6>
