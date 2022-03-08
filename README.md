@@ -10,7 +10,7 @@
   
 <a href="https://ru.wikipedia.org/wiki/Magic_8_ball">Ссылка на страницу Wikipedia с подробным описанием и принципом работы Волшебного Шара</a>
   
-<h4><p>language:Ruby</h4>
+<p>language:Ruby
   
   
   <h4>Запуск программы: <p></h4>
